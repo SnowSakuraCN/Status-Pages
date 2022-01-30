@@ -32,7 +32,7 @@ window.Config = {
   Navi: [
     {
       text: 'Snowsakrua 博客主站',
-      url: 'https://snowsakrua.io/'
+      url: 'https://snowsakura.io/'
     }
   ]
 };
